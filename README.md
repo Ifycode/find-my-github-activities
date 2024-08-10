@@ -20,3 +20,4 @@ Some persons I spend time brainstorming or building cool stuff with, while going
 |👋| [Festus (Okechukwu) Ali](https://linkedin.com/in/festus-ali) |
 |👌| [Bandipo Kehinde](https://www.linkedin.com/in/bandipo-kehinde-3b0434270/) |
 |💯| [Geefundesign](https://www.instagram.com/geefundesign?igsh=MTdvZTV5NWEwMzVzZA%3D%3D&utm_source=qr) |
+|🚀| [Obiagba Samuel](https://github.com/samuko-things) |
