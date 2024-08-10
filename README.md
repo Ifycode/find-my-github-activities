@@ -17,3 +17,5 @@ Some persons I spend time brainstorming or building cool stuff with, while going
 |-- |-- |
 |🙌🏽| [Mary @Ifycode](https://github.com/Ifycode) |
 |🚀| [Akpan Abraham](https://github.com/Akpjunior94) |
+|👋| [Festus (Okechukwu) Ali](https://linkedin.com/in/festus-ali) |
+
