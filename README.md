@@ -16,3 +16,4 @@ Some persons I spend time brainstorming or building cool stuff with, while going
 |Emoji|Profile|
 |-- |-- |
 |🙌🏽| [Mary @Ifycode](https://github.com/Ifycode) |
+|🚀| [Akpan Abraham](https://github.com/Akpjunior94) |
